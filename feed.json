@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Cloud Consulting Service Limited",
+    "description": "",
+    "home_page_url": "",
+    "feed_url": "/feed.json",
+    "user_comment": "",
+    "icon": "/media/website/Icon.png",
+    "author": {
+        "name": "Sunny Chan"
+    },
+    "items": [
+    ]
+}
