@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Cloud Consulting Service Limited",
     "description": "",
-    "home_page_url": "www.ccs-hk.com",
-    "feed_url": "www.ccs-hk.com/feed.json",
+    "home_page_url": "https://www.ccs-hk.com",
+    "feed_url": "https://www.ccs-hk.com/feed.json",
     "user_comment": "",
-    "icon": "www.ccs-hk.com/media/website/Icon.png",
+    "icon": "https://www.ccs-hk.com/media/website/Icon.png",
     "author": {
         "name": "Sunny Chan"
     },
